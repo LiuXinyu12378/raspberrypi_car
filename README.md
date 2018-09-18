@@ -1,5 +1,8 @@
 #                                             raspberrypi_car
-                                         
+ 
+需要先安装OpenCV-Python库 
+
+#
 
 客户端效果
 ![sadas](https://raw.githubusercontent.com/LiuXinyu12378/raspberrypi_car/master/picture/psb%20(1).jpg)
