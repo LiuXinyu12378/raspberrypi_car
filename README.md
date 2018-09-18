@@ -6,8 +6,8 @@ raspberrypi_car
 
 无摄像头执行
 -------------
-                
-  sudo python GPIO.py
+
+    sudo python GPIO.py
 
 有摄像头时执行
 ----
